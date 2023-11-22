@@ -8,7 +8,7 @@ Este proyecto es una implementación de la API de Mercado Pago para una platafor
 
 ### Certificado y id
 
-[Certificado Mercado Pago](https://www.mercadopago.com.mx/developers/panel/developer-program/certification/cert_e8b7f38c189311eea3d21a205c7f512f)](https://www.mercadopago.com.mx/developers/panel/developer-program/certification/cert_e8b7f38c189311eea3d21a205c7f512f)
+#### Certifcado: [Certificado Mercado Pago](https://www.mercadopago.com.mx/developers/panel/developer-program/certification/cert_e8b7f38c189311eea3d21a205c7f512f)
 
 #### ID de la credencial: cert_e8b7f38c189311eea3d21a205c7f512f
 
@@ -39,7 +39,7 @@ Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en
 
 ### Licencia
 
-Este proyecto está licenciado bajo [].
+Este proyecto está licenciado bajo la [MIT License](https://opensource.org/licenses/MIT).
 
 Proyecto desarrollado como parte de la certificación de Mercado Pago.
 

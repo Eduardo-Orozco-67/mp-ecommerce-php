@@ -14,7 +14,7 @@ Este proyecto es una implementación de la API de Mercado Pago para una platafor
 
 ### Insignia
 
-![Insignia](URL_DE_LA_IMAGEN)
+![Insignia](https://github.com/Eduardo-Orozco-67/mp-ecommerce-php/blob/main/insignia.svg)
 
 ### Características
 

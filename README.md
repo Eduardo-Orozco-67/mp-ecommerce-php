@@ -6,15 +6,15 @@ Este proyecto es una implementación de la API de Mercado Pago para una platafor
 
 ### Finalizado el 25/10/2021 renovada el 01/07/2023
 
-### Certificado y id
-
-#### Certifcado: [Certificado Mercado Pago](https://www.mercadopago.com.mx/developers/panel/developer-program/certification/cert_e8b7f38c189311eea3d21a205c7f512f)
+### ID y Certificado 
 
 #### ID de la credencial: cert_e8b7f38c189311eea3d21a205c7f512f
 
+#### Certifcado: [Certificado Mercado Pago](https://www.mercadopago.com.mx/developers/panel/developer-program/certification/cert_e8b7f38c189311eea3d21a205c7f512f)
+
 ### Insignia
 
-![Descripción de la imagen](URL_DE_LA_IMAGEN)
+![Insignia](URL_DE_LA_IMAGEN)
 
 ### Características
 
@@ -33,13 +33,11 @@ git clone https://github.com/Eduardo-Orozco-67/mp-ecommerce-php.git
 2. Configura tus credenciales de Mercado Pago en el archivo de configuración.
 3. Ejecuta un servidor local de PHP y accede al proyecto a través de tu navegador.
 
-### Contribuciones
+### Anexo
 
-Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en abrir un 'issue' o realizar un 'pull request'.
+Proyecto desarrollado como parte de la certificación de Mercado Pago.
 
 ### Licencia
 
 Este proyecto está licenciado bajo la [MIT License](https://opensource.org/licenses/MIT).
-
-Proyecto desarrollado como parte de la certificación de Mercado Pago.
 

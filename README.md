@@ -8,7 +8,7 @@ Este proyecto es una implementación de la API de Mercado Pago para una platafor
 
 ### Certificado y id
 
-[![Certificado Mercado Pago](https://www.mercadopago.com.mx/developers/panel/developer-program/certification/cert_e8b7f38c189311eea3d21a205c7f512f)](https://www.mercadopago.com.mx/developers/panel/developer-program/certification/cert_e8b7f38c189311eea3d21a205c7f512f)
+[Certificado Mercado Pago](https://www.mercadopago.com.mx/developers/panel/developer-program/certification/cert_e8b7f38c189311eea3d21a205c7f512f)](https://www.mercadopago.com.mx/developers/panel/developer-program/certification/cert_e8b7f38c189311eea3d21a205c7f512f)
 
 #### ID de la credencial: cert_e8b7f38c189311eea3d21a205c7f512f
 
@@ -28,7 +28,7 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona el repositorio:
 ```bash
-npm run dev
+git clone https://github.com/Eduardo-Orozco-67/mp-ecommerce-php.git
 ```
 2. Configura tus credenciales de Mercado Pago en el archivo de configuración.
 3. Ejecuta un servidor local de PHP y accede al proyecto a través de tu navegador.
